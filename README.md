@@ -11,15 +11,15 @@
   <p>🎯 Always working to get better at coding and software design.</p>
 </div>
 
-- 📫 How to reach me **zeelp4797@gmail.com**
+- 📫 How to reach me zeelp4797@gmail.com
 </br>
 <h3 align="left" style="font-size: 1.8em;">🌐 Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeel patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeel patel" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/zeel patel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zeel patel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zeel patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeel patel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zeel-patel-60309424a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeel patel" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/zeel_patel_82" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zeel patel" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/zeelp4797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeel patel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/patelzeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patelzeel" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/zeel patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="zeel patel" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/zeelpx45g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="zeel patel" height="30" width="40" /></a>
   <a href="https://twitter.com/@zeelpatel64097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zeelpatel64097" height="30" width="40" /></a>
   <a href="https://instagram.com/zeel patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeel patel" height="30" width="40" /></a>
 </p>
