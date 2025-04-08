@@ -21,7 +21,6 @@
 <a href="https://www.leetcode.com/patelzeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patelzeel" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/zeelpx45g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="zeel patel" height="30" width="40" /></a>
   <a href="https://twitter.com/@zeelpatel64097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zeelpatel64097" height="30" width="40" /></a>
-  <a href="https://instagram.com/zeel patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeel patel" height="30" width="40" /></a>
 </p>
 </br>
 
